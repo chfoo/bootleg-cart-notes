@@ -34,6 +34,12 @@ When game 1 (Pokemon Gold) is selected:
 * MD5: 02106d5967cff46f4862add4fdbeb5cb
 * SHA1: 1e739723fbcf4dd7e7d62c1b5143695a29af5dd3
 
+IPS patches:
+
+* Patch against Pokemon Gold Japan (`POKEMON_GLDAAUJ.gb`; MD5: 85be569fe89f58c40f60480313314c67)
+
+(I'm aware someone independently has dumped this ROM before. It just took me a year before I was able to. 🙁)
+
 ## 2-in-1 Pokémon Gold and Silver
 
 * $c014 is the menu cursor's 0-based index
@@ -62,3 +68,7 @@ else:
 ```
 
 WIP
+
+The dumped ROM is very messy and broken.
+
+However, a clean patch [has been made by someone else earlier](https://gbatemp.net/threads/pokemon-hong-kong-gold-version-ips-patch.456707/) which appears to be the same game.
